@@ -6,6 +6,7 @@ public class Test01 {
 		System.out.println("Hello,GitHub服务器！");
 		System.out.println("Hello,GitHub服务器02");
 		System.out.println("在GitHub上修改代码");
+		System.out.println("在GitHub上修改代码 02");
 	}
 
 }
